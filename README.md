@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:elexandro.torres@gmail.com)](mailto:elexandro.torres@gmail.com)
 
 ### Hello! Welcome to my profile
-<img style="margin: 0 auto" src="photos/yuki_photo" height="200">
+<img style="margin: 0 auto" src="photos/yuki_photo.jpg" height="200">
 
 I'm a student of Bacharelors of Information of Tecnology on UFRN(Universidade Federal do Rio Grande do Norte)
 
