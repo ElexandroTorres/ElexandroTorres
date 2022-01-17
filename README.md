@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/elexandrotorres/)
 [![StackOverflow](https://img.shields.io/badge/Stackoverflow-lightgrey?style=for-the-badge&logo=stack-overflow)](https://stackexchange.com/users/23494176/elexandro-torres)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:elexandro.torres@gmail.com)](elexandro.torres@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:elexandro.torres@gmail.com)](mailto:elexandro.torres@gmail.com)
 
 I'm a student of Bacharelors of Information of Tecnology on UFRN(Universidade Federal do Rio Grande do Norte)
 
