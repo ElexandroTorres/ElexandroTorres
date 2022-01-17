@@ -4,6 +4,9 @@
 [![StackOverflow](https://img.shields.io/badge/Stackoverflow-lightgrey?style=for-the-badge&logo=stack-overflow)](https://stackexchange.com/users/23494176/elexandro-torres)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:elexandro.torres@gmail.com)](mailto:elexandro.torres@gmail.com)
 
+### Hello! Welcome to my profile
+<img style="margin: 0 auto" src="https://www.instagram.com/p/CHOsNceFWyz/" height="200">
+
 I'm a student of Bacharelors of Information of Tecnology on UFRN(Universidade Federal do Rio Grande do Norte)
 
 I'm a Mobile developer an passionate of game developer.
