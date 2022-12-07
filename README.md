@@ -15,6 +15,8 @@ I'm a Mobile developer and passionate of game developer.
 - 🌱 I’m currently learning Flutter, and Android native developer. I'm also study english to improvement my comunication skills and i love to make games with Unity 3D.
 - 💬 Fell Free to send me messages about work, tecnology or even to  talk about books, series, games and various other things.
 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
 📈 **My GitHub Stats:**
 
 ![Elexandro Status](https://github-readme-stats.vercel.app/api?username=ElexandroTorres&show_icons=true)
